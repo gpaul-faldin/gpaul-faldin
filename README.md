@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm gpaul/faldin, a passionate software engineer with a rich history in C, and currently diving deep into the world of Rust. Most of my development work revolves around JavaScript, especially with Node.js.
+I'm gpaul/faldin, a passionate backend software engineer with a rich history in C, and currently diving deep into the world of Rust. Most of my development work revolves around JavaScript, especially with Node.js.
 
 ![gpaul/faldin's GitHub stats](https://github-readme-stats-gpaul-faldin.vercel.app/api?username=gpaul-faldin&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Langs](https://github-readme-stats-gpaul-faldin.vercel.app/api/top-langs/?username=gpaul-faldin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,7 +18,8 @@ I'm gpaul/faldin, a passionate software engineer with a rich history in C, and c
 ## 🛠️ Tech Stack
 
 - **Languages**: C, Bash, JavaScript, Rust, Golang, PHP7, Lua
-- **Backend**: Node.js, Express.js, nest.js, MongoDB
+- **Backend**: Node.js, Express.js, NestJS, MongoDB
+- **Frontend**: React.js, Next.js
 - **Tools**: Git, Docker, Kubernetes, ESXI 6.0
 
 ## 📫 How to reach me
