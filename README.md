@@ -23,11 +23,7 @@ I'm gpaul/faldin, a passionate software engineer with a rich history in C, and c
 ## 📫 How to reach me
 
 - [Twitter](https://twitter.com/GpaulFaldin)
-- Email: your.email@example.com
-
-## 🎧 Currently Listening to
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/1132644108)
+- Email: faldin92600@gmail.com
 
 ---
 
