@@ -11,7 +11,7 @@ I'm gpaul/faldin, a passionate backend software engineer with a rich history in 
 
 ## 🌱 I’m currently learning
 
-- Advanced Rust for Systems Programming.
+- Advanced Rust for Systems Programming and Wasm.
 - Web Development.
 - System and Website Security.
 
