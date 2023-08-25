@@ -17,8 +17,9 @@ I'm gpaul/faldin, a passionate backend software engineer with a rich history in 
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C, Bash, JavaScript, Rust, Golang, PHP7, Lua
-- **Backend**: Node.js, Express.js, NestJS, MongoDB
+- **Languages**: C, Bash, JavaScript/Typescript, Rust, Golang, PHP7, Lua
+- **Backend**: Node.js, Express.js, NestJS, PHP7 
+- **Databases**: MongoDB
 - **Frontend**: React.js, Next.js
 - **Tools**: Git, Docker, Kubernetes, ESXI 6.0
 
