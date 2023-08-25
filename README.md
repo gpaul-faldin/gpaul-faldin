@@ -7,7 +7,7 @@ I'm gpaul/faldin, a passionate backend software engineer with a rich history in 
 
 ## 🔭 Current Projects
 
-- **Rusty Adventures**: Exploring the depths of Rust and its ecosystem.
+- **Too Good To Bot**: Create a fully featured service to automate Too Good To Go, with auto buy and notification on availability 
 
 ## 🌱 I’m currently learning
 
