@@ -31,7 +31,7 @@ I'm gpaul/faldin, a passionate backend software engineer with a rich history in 
 ## 🤝 Let's Collaborate
 
 I have a plethora of private projects under my belt, primarily focused on:
-- **Reverse Engineering**
+- **Reverse Engineering (web & mobile)**
 - **Automation**
 - **Blockchain**
 - **Pentesting**
