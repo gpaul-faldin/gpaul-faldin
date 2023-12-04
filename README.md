@@ -7,7 +7,7 @@ I'm gpaul/faldin, a passionate backend software engineer with a rich history in 
 
 ## 🔭 Current Projects
 
-- **[HumanBenchmarkAI](https://github.com/gpaul-faldin/HumanBenchmarkAI)**: Complete the test available on Human Benchmark using AI solution 
+- **[HumanBenchmarkAI](https://github.com/gpaul-faldin/HumanBenchmarkAI)**: Complete the test available on Human Benchmark using AI solutions in Node.js 
 
 ## 🌱 I’m currently learning
 
