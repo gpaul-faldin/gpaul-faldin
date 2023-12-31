@@ -7,7 +7,7 @@ I'm gpaul/faldin, a passionate backend software engineer with a rich history in 
 
 ## 🔭 Current Projects
 
-- **[WordSearchOcr](https://github.com/gpaul-faldin/WordSearchOcr)**: Complete any grid available on thewordsearch.com using AI (OCR/CV)
+- **[WordSearchOcr](https://github.com/gpaul-faldin/WordSearchOcr)**: Complete any grid available on **[thewordsearch.com](https://thewordsearch.com)** using AI (OCR/CV)
 
 ## 🌱 I’m currently learning
 
