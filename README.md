@@ -7,7 +7,7 @@ I'm gpaul/faldin, a passionate mostly backend software engineer with a rich hist
 
 ## 🔭 Current Projects
 
-- **[WordSearchOcr](https://github.com/gpaul-faldin/WordSearchOcr)**: Complete any grid available on **[thewordsearch.com](https://thewordsearch.com)** using AI (OCR/CV)
+- **DiscordCloudStorage**: Using discord as a Cloud storage platform (POC)
 
 ## 🌱 I’m currently learning
 
