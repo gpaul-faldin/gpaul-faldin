@@ -7,7 +7,7 @@ I'm gpaul/faldin, a passionate mostly backend software engineer with a rich hist
 
 ## 🔭 Current Projects
 
-- **DiscordCloudStorage**: Using discord as a Cloud storage platform (POC)
+- **YoutubeCloudStorage**: Using Youtube as a Cloud storage platform by using videos that contains binary string (POC)
 
 ## 🌱 I’m currently learning
 
