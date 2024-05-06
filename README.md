@@ -7,7 +7,7 @@ I'm gpaul/faldin, a passionate mostly backend software engineer with a rich hist
 
 ## 🔭 Current Projects
 
-- **YoutubeCloudStorage**: Using Youtube as a Cloud storage platform by using videos that store binary data represented as colors (POC)
+- **DinoRun reinforcement learning AI**
 
 ## 🌱 I’m currently learning
 
