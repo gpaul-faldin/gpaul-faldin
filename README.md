@@ -6,7 +6,8 @@ I'm gpaul/faldin, a passionate mostly backend software engineer / web developer 
 
 ## 🔭 Current Projects
 
-- **DinoRun reinforcement learning AI (python)**
+- **Is it worth it**: A tool that help you calculate your true usage of claude.ai PRO subscription and help you choose the best option for you (API or PRO subscription)
+- **7Speaking-helper**: An AI powered chrome extension that pretty much give you the correct (most of the time) answer on 7Speaking TOEIC test
 
 ## 🌱 I’m currently learning
 
