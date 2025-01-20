@@ -6,20 +6,20 @@ I'm gpaul/faldin, a passionate mostly backend software engineer / web developer 
 
 ## 🔭 Current Projects
 
+- **Mobile Assistant**: Fine tuned lightweight LLM (phi-2) on precise subject to then infer the model on mobile devices at all time with no internet connection required
 - **Is it worth it**: A tool that help you calculate your true usage of claude.ai PRO subscription and help you choose the best option for you (API or PRO subscription)
-- **7Speaking-helper**: An AI powered chrome extension that pretty much give you the correct (most of the time) answer on 7Speaking TOEIC test
 
 ## 🌱 I’m currently learning
 
 - Advanced Rust for Systems Programming and Wasm.
+- Ai model fine tuning and the transformers library.
 - Web Development.
 - System and Website Security.
 - TensorFlow.js framework.
-- Transformers and NEAT library
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C, Bash, JavaScript/Typescript, Python3, Rust, Golang, PHP7, Lua
+- **Languages**: C, Bash, JavaScript/Typescript, Python3, Rust, Golang, PHP7, "Lua"
 - **Backend**: Node.js, Express.js, NestJS, PHP7 
 - **Databases**: MongoDB, Milvus
 - **Frontend**: React.js, Next.js
@@ -35,7 +35,7 @@ I'm gpaul/faldin, a passionate mostly backend software engineer / web developer 
 I have a plethora of private projects under my belt, primarily focused on:
 - **Reverse Engineering (web & mobile)**
 - **Automation**
-- **Blockchain**
+- **AI**
 - **Pentesting**
 
 If you're interested in these domains or would like to collaborate, don't hesitate to hit me up!
