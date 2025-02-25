@@ -6,8 +6,9 @@ I'm gpaul/faldin, a passionate mostly backend software engineer / web developer 
 
 ## 🔭 Current Projects
 
+- **Portfolio**: Currently working on my portfolio which utilize mediaPipe HandLandmark for a new and fun way to interact with you website 
 - **Mobile Assistant**: Fine tuned lightweight LLM (phi-2) on precise subject to then infer the model on mobile devices at all time with no internet connection required
-- **Is it worth it**: A tool that help you calculate your true usage of claude.ai PRO subscription and help you choose the best option for you (API or PRO subscription)
+
 
 ## 🌱 I’m currently learning
 
