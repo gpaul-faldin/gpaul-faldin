@@ -16,7 +16,6 @@ I'm gpaul/faldin, a passionate mostly backend software engineer / web developer 
 - Ai model fine tuning and the transformers library.
 - Web Development.
 - System and Website Security.
-- TensorFlow.js framework.
 
 ## 🛠️ Tech Stack
 
