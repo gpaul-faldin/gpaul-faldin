@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm gpaul/faldin, a passionate mostly backend software engineer / web developer with a rich history in C, and currently diving deep into the world of AI. Most of my current development work revolves around the JavaScript and Python environments.
+I'm gpaul/faldin, a passionate mostly backend software engineer / web developer with a rich history in C, and currently diving deep into the world of AI/ML. Most of my current development work revolves around the JavaScript and Python environments.
 ![gpaul/faldin's GitHub stats](https://github-readme-stats-gpaul-faldin.vercel.app/api?username=gpaul-faldin&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Langs](https://github-readme-stats-gpaul-faldin.vercel.app/api/top-langs/?username=gpaul-faldin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
