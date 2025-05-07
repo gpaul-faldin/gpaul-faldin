@@ -22,7 +22,6 @@ I develop custom Model Context Protocol servers for Claude to enhance AI-assiste
 - **Frontend**: React.js, Next.js
 - **Tools**: Git, Docker, Kubernetes, ESXI 6.0, Cron
 ## 📫 How to reach me
-- [Twitter](https://twitter.com/GpaulFaldin)
 - Email: faldin92600@gmail.com
 ## 🤝 Let's Collaborate
 I have a plethora of private projects under my belt, primarily focused on:
