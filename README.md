@@ -4,7 +4,7 @@ I'm gpaul/faldin, a passionate mostly backend software engineer / web developer 
 [![Top Langs](https://github-readme-stats-gpaul-faldin.vercel.app/api/top-langs/?username=gpaul-faldin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔭 Current Projects
 - **Portfolio**: Currently working on my portfolio which utilize mediaPipe HandLandmark for a new and fun way to interact with you website 
-- **Mobile Assistant**: Fine tuned lightweight LLM (phi-2) on precise subject to then infer the model on mobile devices at all time with no internet connection required
+- **Mobile Assistant**: Fine tuned lightweight LLM (gemma2-2b) on precise subject to then infer the model on mobile devices at all time with no internet connection required
 
 ## 🤖 Custom MCPs
 I develop custom Model Context Protocol servers for Claude to enhance AI-assisted development that you can find right here:
